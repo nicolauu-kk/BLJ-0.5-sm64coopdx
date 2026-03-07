@@ -16,3 +16,6 @@ Criar um método mais consistente para executar BLJ, principalmente em superfíc
 
 ## Versão
 0.5
+
+## Discord da comunidade sm64coopdx Brasileira:
+https://discord.gg/Msq686mnK7
